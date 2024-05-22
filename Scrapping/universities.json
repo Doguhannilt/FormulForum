@@ -1,524 +1,292 @@
 [
     {
         "isim": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/326654.png"
-        ],
-        "link": [
-            "http://www.acibadem.edu.tr"
-        ]
+        "logo": "/assets/logos/ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ.jpg",
+        "link": "http://www.acibadem.edu.tr"
     },
     {
         "isim": "ALTINBAŞ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/326019.png"
-        ],
-        "link": [
-            "http://www.altinbas.edu.tr/tr"
-        ]
+        "logo": "/assets/logos/ALTINBAŞ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.altinbas.edu.tr/tr"
     },
     {
         "isim": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/255896.png"
-        ],
-        "link": [
-            "http://www.adiguzel.edu.tr/"
-        ]
+        "logo": "/assets/logos/ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU.jpg",
+        "link": "http://www.adiguzel.edu.tr/"
     },
     {
         "isim": "BAHÇEŞEHİR ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/104140.png"
-        ],
-        "link": [
-            "http://www.bahcesehir.edu.tr"
-        ]
+        "logo": "/assets/logos/BAHÇEŞEHİR ÜNİVERSİTESİ.jpg",
+        "link": "http://www.bahcesehir.edu.tr"
     },
     {
         "isim": "BEYKOZ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/306383.png"
-        ],
-        "link": [
-            "https://www.beykoz.edu.tr"
-        ]
+        "logo": "/assets/logos/BEYKOZ ÜNİVERSİTESİ.jpg",
+        "link": "https://www.beykoz.edu.tr"
     },
     {
         "isim": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/163894.png"
-        ],
-        "link": [
-            "http://www.bezmialem.edu.tr/"
-        ]
+        "logo": "/assets/logos/BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ.jpg",
+        "link": "http://www.bezmialem.edu.tr/"
     },
     {
         "isim": "BİRUNİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/251241.png"
-        ],
-        "link": [
-            "http://www.biruni.edu.tr/"
-        ]
+        "logo": "/assets/logos/BİRUNİ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.biruni.edu.tr/"
     },
     {
         "isim": "BOĞAZİÇİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/105322.png"
-        ],
-        "link": [
-            "http://www.boun.edu.tr"
-        ]
+        "logo": "/assets/logos/BOĞAZİÇİ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.boun.edu.tr"
     },
     {
         "isim": "DEMİROĞLU BİLİM ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/384591.png"
-        ],
-        "link": [
-            "http://www.demiroglu.bilim.edu.tr"
-        ]
+        "logo": "/assets/logos/DEMİROĞLU BİLİM ÜNİVERSİTESİ.jpg",
+        "link": "http://www.demiroglu.bilim.edu.tr"
     },
     {
         "isim": "DOĞUŞ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/108112.png"
-        ],
-        "link": [
-            "http://www.dogus.edu.tr"
-        ]
+        "logo": "/assets/logos/DOĞUŞ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.dogus.edu.tr"
     },
     {
         "isim": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/163897.png"
-        ],
-        "link": [
-            "https://www.fsm.edu.tr"
-        ]
+        "logo": "/assets/logos/FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ.jpg",
+        "link": "https://www.fsm.edu.tr"
     },
     {
         "isim": "FENERBAHÇE ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/310017.png"
-        ],
-        "link": [
-            "https://www.fbu.edu.tr"
-        ]
+        "logo": "/assets/logos/FENERBAHÇE ÜNİVERSİTESİ.jpg",
+        "link": "https://www.fbu.edu.tr"
     },
     {
         "isim": "GALATASARAY ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/111395.png"
-        ],
-        "link": [
-            "http://www.gsu.edu.tr"
-        ]
+        "logo": "/assets/logos/GALATASARAY ÜNİVERSİTESİ.jpg",
+        "link": "http://www.gsu.edu.tr"
     },
     {
         "isim": "HALİÇ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/113699.png"
-        ],
-        "link": [
-            "https://www.halic.edu.tr"
-        ]
+        "logo": "/assets/logos/HALİÇ ÜNİVERSİTESİ.jpg",
+        "link": "https://www.halic.edu.tr"
     },
     {
         "isim": "IŞIK ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/114385.png"
-        ],
-        "link": [
-            "http://www.isikun.edu.tr/"
-        ]
+        "logo": "/assets/logos/IŞIK ÜNİVERSİTESİ.jpg",
+        "link": "http://www.isikun.edu.tr/"
     },
     {
         "isim": "İBN HALDUN ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/274887.png"
-        ],
-        "link": [
-            "https://www.ihu.edu.tr"
-        ]
+        "logo": "/assets/logos/İBN HALDUN ÜNİVERSİTESİ.jpg",
+        "link": "https://www.ihu.edu.tr"
     },
     {
         "isim": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/163900.png"
-        ],
-        "link": [
-            "http://www.29mayis.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL 29 MAYIS ÜNİVERSİTESİ.jpg",
+        "link": "http://www.29mayis.edu.tr"
     },
     {
         "isim": "İSTANBUL AREL ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/114773.png"
-        ],
-        "link": [
-            "http://www.arel.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL AREL ÜNİVERSİTESİ.jpg",
+        "link": "http://www.arel.edu.tr"
     },
     {
         "isim": "İSTANBUL ATLAS ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/339995.png"
-        ],
-        "link": [
-            "https://www.atlas.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL ATLAS ÜNİVERSİTESİ.jpg",
+        "link": "https://www.atlas.edu.tr"
     },
     {
         "isim": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/114827.png"
-        ],
-        "link": [
-            "http://www.aydin.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL AYDIN ÜNİVERSİTESİ.jpg",
+        "link": "http://www.aydin.edu.tr"
     },
     {
         "isim": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/448766.png"
-        ],
-        "link": [
-            "https://www.beykent.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL BEYKENT ÜNİVERSİTESİ.jpg",
+        "link": "https://www.beykent.edu.tr"
     },
     {
         "isim": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/114907.png"
-        ],
-        "link": [
-            "https://www.bilgi.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL BİLGİ ÜNİVERSİTESİ.jpg",
+        "link": "https://www.bilgi.edu.tr"
     },
     {
         "isim": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/241174.png"
-        ],
-        "link": [
-            "http://www.esenyurt.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL ESENYURT ÜNİVERSİTESİ.jpg",
+        "link": "http://www.esenyurt.edu.tr"
     },
     {
         "isim": "İSTANBUL GALATA ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/391144.png"
-        ],
-        "link": [
-            "https://www.galata.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL GALATA ÜNİVERSİTESİ.jpg",
+        "link": "https://www.galata.edu.tr"
     },
     {
         "isim": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/315098.png"
-        ],
-        "link": [
-            "https://www.gedik.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL GEDİK ÜNİVERSİTESİ.jpg",
+        "link": "https://www.gedik.edu.tr"
     },
     {
         "isim": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/130959.png"
-        ],
-        "link": [
-            "https://www.gelisim.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL GELİŞİM ÜNİVERSİTESİ.jpg",
+        "link": "https://www.gelisim.edu.tr"
     },
     {
         "isim": "İSTANBUL KENT ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/302687.png"
-        ],
-        "link": [
-            "https://www.kent.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL KENT ÜNİVERSİTESİ.jpg",
+        "link": "https://www.kent.edu.tr"
     },
     {
         "isim": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/115022.png"
-        ],
-        "link": [
-            "https://www.iku.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL KÜLTÜR ÜNİVERSİTESİ.jpg",
+        "link": "https://www.iku.edu.tr"
     },
     {
         "isim": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/173496.png"
-        ],
-        "link": [
-            "http://www.medeniyet.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL MEDENİYET ÜNİVERSİTESİ.jpg",
+        "link": "http://www.medeniyet.edu.tr"
     },
     {
         "isim": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/163888.png"
-        ],
-        "link": [
-            "https://www.medipol.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL MEDİPOL ÜNİVERSİTESİ.jpg",
+        "link": "https://www.medipol.edu.tr"
     },
     {
         "isim": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/447904.png"
-        ],
-        "link": [
-            "http://www.nisantasi.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ.jpg",
+        "link": "http://www.nisantasi.edu.tr"
     },
     {
         "isim": "İSTANBUL OKAN ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/360777.png"
-        ],
-        "link": [
-            "https://www.okan.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL OKAN ÜNİVERSİTESİ.jpg",
+        "link": "https://www.okan.edu.tr"
     },
     {
         "isim": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/274886.png"
-        ],
-        "link": [
-            "https://www.rumeli.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL RUMELİ ÜNİVERSİTESİ.jpg",
+        "link": "https://www.rumeli.edu.tr"
     },
     {
         "isim": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/163898.png"
-        ],
-        "link": [
-            "http://www.izu.edu.tr/"
-        ]
+        "logo": "/assets/logos/İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ.jpg",
+        "link": "http://www.izu.edu.tr/"
     },
     {
         "isim": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/432690.png"
-        ],
-        "link": [
-            "https://www.issb.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU.jpg",
+        "link": "https://www.issb.edu.tr"
     },
     {
         "isim": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/410560.png"
-        ],
-        "link": [
-            "https://www.istun.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ.jpg",
+        "link": "https://www.istun.edu.tr"
     },
     {
         "isim": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/220121.png"
-        ],
-        "link": [
-            "https://www.sisli.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU.jpg",
+        "link": "https://www.sisli.edu.tr"
     },
     {
         "isim": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/115069.png"
-        ],
-        "link": [
-            "http://www.itu.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL TEKNİK ÜNİVERSİTESİ.jpg",
+        "link": "http://www.itu.edu.tr"
     },
     {
         "isim": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/115335.png"
-        ],
-        "link": [
-            "http://www.ticaret.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL TİCARET ÜNİVERSİTESİ.jpg",
+        "link": "http://www.ticaret.edu.tr"
     },
     {
         "isim": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/440213.png"
-        ],
-        "link": [
-            "https://www.topkapi.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL TOPKAPI ÜNİVERSİTESİ.jpg",
+        "link": "https://www.topkapi.edu.tr"
     },
     {
         "isim": "İSTANBUL ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/115373.png"
-        ],
-        "link": [
-            "http://www.istanbul.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL ÜNİVERSİTESİ.jpg",
+        "link": "http://www.istanbul.edu.tr"
     },
     {
         "isim": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/339984.png"
-        ],
-        "link": [
-            "https://iuc.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA.jpg",
+        "link": "https://iuc.edu.tr"
     },
     {
         "isim": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/315415.png"
-        ],
-        "link": [
-            "https://www.yeniyuzyil.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ.jpg",
+        "link": "https://www.yeniyuzyil.edu.tr"
     },
     {
         "isim": "İSTİNYE ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/274888.png"
-        ],
-        "link": [
-            "https://www.istinye.edu.tr"
-        ]
+        "logo": "/assets/logos/İSTİNYE ÜNİVERSİTESİ.jpg",
+        "link": "https://www.istinye.edu.tr"
     },
     {
         "isim": "KADİR HAS ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/116281.png"
-        ],
-        "link": [
-            "http://www.khas.edu.tr"
-        ]
+        "logo": "/assets/logos/KADİR HAS ÜNİVERSİTESİ.jpg",
+        "link": "http://www.khas.edu.tr"
     },
     {
         "isim": "KOÇ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/118853.png"
-        ],
-        "link": [
-            "http://www.ku.edu.tr"
-        ]
+        "logo": "/assets/logos/KOÇ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.ku.edu.tr"
     },
     {
         "isim": "MALTEPE ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/118883.png"
-        ],
-        "link": [
-            "http://www.maltepe.edu.tr/"
-        ]
+        "logo": "/assets/logos/MALTEPE ÜNİVERSİTESİ.jpg",
+        "link": "http://www.maltepe.edu.tr/"
     },
     {
         "isim": "MARMARA ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/119094.png"
-        ],
-        "link": [
-            "http://www.marmara.edu.tr"
-        ]
+        "logo": "/assets/logos/MARMARA ÜNİVERSİTESİ.jpg",
+        "link": "http://www.marmara.edu.tr"
     },
     {
         "isim": "MEF ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/215913.png"
-        ],
-        "link": [
-            "http://www.mef.edu.tr"
-        ]
+        "logo": "/assets/logos/MEF ÜNİVERSİTESİ.jpg",
+        "link": "http://www.mef.edu.tr"
     },
     {
         "isim": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/120301.png"
-        ],
-        "link": [
-            "https://www.msgsu.edu.tr"
-        ]
+        "logo": "/assets/logos/MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ.jpg",
+        "link": "https://www.msgsu.edu.tr"
     },
     {
         "isim": "ÖZYEĞİN ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/122827.png"
-        ],
-        "link": [
-            "https://www.ozyegin.edu.tr"
-        ]
+        "logo": "/assets/logos/ÖZYEĞİN ÜNİVERSİTESİ.jpg",
+        "link": "https://www.ozyegin.edu.tr"
     },
     {
         "isim": "PİRİ REİS ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/136233.png"
-        ],
-        "link": [
-            "http://www.pirireis.edu.tr"
-        ]
+        "logo": "/assets/logos/PİRİ REİS ÜNİVERSİTESİ.jpg",
+        "link": "http://www.pirireis.edu.tr"
     },
     {
         "isim": "SABANCI ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/123400.png"
-        ],
-        "link": [
-            "http://www.sabanciuniv.edu"
-        ]
+        "logo": "/assets/logos/SABANCI ÜNİVERSİTESİ.jpg",
+        "link": "http://www.sabanciuniv.edu"
     },
     {
         "isim": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/270121.png"
-        ],
-        "link": [
-            "http://www.sbu.edu.tr"
-        ]
+        "logo": "/assets/logos/SAĞLIK BİLİMLERİ ÜNİVERSİTESİ.jpg",
+        "link": "http://www.sbu.edu.tr"
     },
     {
         "isim": "TÜRK-ALMAN ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/201784.png"
-        ],
-        "link": [
-            "http://www.tau.edu.tr/"
-        ]
+        "logo": "/assets/logos/TÜRK-ALMAN ÜNİVERSİTESİ.jpg",
+        "link": "http://www.tau.edu.tr/"
     },
     {
         "isim": "ÜSKÜDAR ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/206795.png"
-        ],
-        "link": [
-            "http://www.uskudar.edu.tr"
-        ]
+        "logo": "/assets/logos/ÜSKÜDAR ÜNİVERSİTESİ.jpg",
+        "link": "http://www.uskudar.edu.tr"
     },
     {
         "isim": "YEDİTEPE ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/126818.png"
-        ],
-        "link": [
-            "http://www.yeditepe.edu.tr/"
-        ]
+        "logo": "/assets/logos/YEDİTEPE ÜNİVERSİTESİ.jpg",
+        "link": "http://www.yeditepe.edu.tr/"
     },
     {
         "isim": "YILDIZ TEKNİK ÜNİVERSİTESİ",
-        "logo": [
-            "https://yokatlas.yok.gov.tr/assets/img/logo/126982.png"
-        ],
-        "link": [
-            "http://www.yildiz.edu.tr"
-        ]
+        "logo": "/assets/logos/YILDIZ TEKNİK ÜNİVERSİTESİ.jpg",
+        "link": "http://www.yildiz.edu.tr"
     }
 ]
