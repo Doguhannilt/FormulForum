@@ -4,7 +4,7 @@ const Post = require("../models/availablePost")
 const postArticles = async (req, res) => {
     try {
         const posts = new Post({
-            id: req.body.id,
+           //  id: req.body.id,
             title: req.body.title,
             text: req.body.text,
             date: req.body.date,
