@@ -23,10 +23,9 @@ const signup = async (req,res)=>{
         const email = response.data.email;
         const account = await User.findOne({email});
         if(!account){
-         const id = generateUniqId();  
+        // const id = generateUniqId();  
          const user = new User({
                 name:response.data.name,
-                id:id,
                 picture:response.data.picture,
                 email:response.data.email,
             });
