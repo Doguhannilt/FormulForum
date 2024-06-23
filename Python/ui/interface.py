@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:/Users/osman/OneDrive/Masaüstü/deneme/PostFilterAppInterFace.ui'
+# Form implementation generated from reading ui file 'C:/Users/osman/OneDrive/Masaüstü/PostFilterAppInterFace.ui'
 #
 # Created by: PyQt5 UI code generator 5.6
 #
@@ -42,7 +42,7 @@ class Ui_MainWindow(object):
         self.PostTitle.setObjectName("PostTitle")
         self.verticalLayout_2.addWidget(self.PostTitle)
         self.PostContent = QtWidgets.QPlainTextEdit(self.ArticlesPage)
-        self.PostContent.setEnabled(False)
+        self.PostContent.setEnabled(True)
         font = QtGui.QFont()
         font.setPointSize(10)
         self.PostContent.setFont(font)
@@ -214,6 +214,22 @@ class Ui_MainWindow(object):
         self.verticalLayout_4.addItem(spacerItem6)
         spacerItem7 = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
         self.verticalLayout_4.addItem(spacerItem7)
+        self.EmailInput = QtWidgets.QLineEdit(self.SettingsPage)
+        self.EmailInput.setMinimumSize(QtCore.QSize(0, 30))
+        self.EmailInput.setStyleSheet("border: 1px solid white;\n"
+"padding-right: 10px;\n"
+"padding-left: 10px;")
+        self.EmailInput.setAlignment(QtCore.Qt.AlignCenter)
+        self.EmailInput.setObjectName("EmailInput")
+        self.verticalLayout_4.addWidget(self.EmailInput)
+        self.PasswordInput = QtWidgets.QLineEdit(self.SettingsPage)
+        self.PasswordInput.setMinimumSize(QtCore.QSize(0, 30))
+        self.PasswordInput.setStyleSheet("border: 1px solid white;\n"
+"padding-right: 10px;\n"
+"padding-left: 10px;")
+        self.PasswordInput.setAlignment(QtCore.Qt.AlignCenter)
+        self.PasswordInput.setObjectName("PasswordInput")
+        self.verticalLayout_4.addWidget(self.PasswordInput)
         spacerItem8 = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
         self.verticalLayout_4.addItem(spacerItem8)
         self.MongoInput = QtWidgets.QLineEdit(self.SettingsPage)
@@ -337,6 +353,8 @@ class Ui_MainWindow(object):
         self.PostTitle.setText(_translate("MainWindow", "Başlık"))
         self.BriefBtn.setText(_translate("MainWindow", "Özet"))
         self.FilterBtn.setText(_translate("MainWindow", "Süzgeç"))
+        self.EmailInput.setPlaceholderText(_translate("MainWindow", "E-posta Adresi"))
+        self.PasswordInput.setPlaceholderText(_translate("MainWindow", "E-posta Parolası"))
         self.MongoInput.setPlaceholderText(_translate("MainWindow", "Mongo Bağlantı Url si"))
         self.label_2.setText(_translate("MainWindow", "Tablo 1"))
         self.label_3.setText(_translate("MainWindow", "Tablo 2"))
