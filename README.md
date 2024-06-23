@@ -26,10 +26,10 @@ cd FormulForum
 
 - **Fullstack Developer** - <a href="github.com/doguhannilt">Doguhan Ilter</a> | <a href="https://github.com/KaanCL">Kaan Cerkez</a>
 - **Python Developer** - <a href="https://github.com/oasiiss">Efe</a>
-- **Python Assistants** - <a href="https://github.com/Burakcaninan">Burak Can Inan</a> | <a href="https://github.com/Burakcaninan">Devran Yıldız</a> | <a href="https://github.com/BerkDesign">Berk Demirtaş</a>
+- **Python Assistants** - <a href="https://github.com/Burakcaninan">Burak Can Inan</a> | <a href="https://github.com/Burakcaninan">Devran Yıldız</a> | <a href="https://github.com/BerkDesign">Berk Demirtaş</a> | <a href="https://github.com/serhansimsek">Serhan Simsek</a>
 - **Designer** - <a href="https://github.com/Alivan-1502">M.Ali Van</a>
 - **Security** - <a href="https://github.com/iremkcbyk">Irem Kocabiyik</a> 
-- **Frontend Developer** - <a href="https://github.com/serhansimsek">Serhan Simsek</a>
+- **Frontend Developer** - <a href="github.com/doguhannilt">Doguhan Ilter</a> | <a href="https://github.com/KaanCL">Kaan Cerkez</a>
 - **Tester** - <a href="https://github.com/kaptanlaryaren">Yaren Kaptanlar</a>
 
 
