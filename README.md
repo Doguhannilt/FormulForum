@@ -1,6 +1,6 @@
 # DEMO
 
-```markdown
+
 # FormulForum
 
 FormulForum is a website for students and teachers to share articles, ideas, and wishes. This project is developed using the MERN (MongoDB, Express, React, Node.js) stack.
